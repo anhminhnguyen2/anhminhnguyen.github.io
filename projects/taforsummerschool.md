@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/soroptimist.avif
+image: img/sha.png
 title: "Teacher’s Assistant at Summer School Program"
 date: 2023
 published: true
