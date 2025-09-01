@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sha.png
+image: img/nhs.png
 title: "Member and Tutoring Coordinator of National Honor Society"
 date: 2022 - 2024
 published: true
