@@ -21,81 +21,75 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Technical",
+      "keywords": [ "Google Sheets", "Java (Beginner)", "Access" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Language",
+      "keywords": [ "English (Fluent)", "Vietnamese (Fluent)" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2028)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2024-08-24",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": [  ]
+    },
+    {
+      "institution": "Sacred Hearts Academy, Honolulu, HI",
+      "area": " ",
+      "studyType": "High School Diploma",
+      "startDate": "2020-01",
+      "endDate": "2024-05",
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa General Education Office",
+      "position": "Student Assistant",
+      "website": "https://manoa.hawaii.edu/gened/",
+      "startDate": "2024-10",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Provides administrative and clerical support to faculty.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Resonsible for inputting and updating information about courses, maintaining database, and organized files relating to Gen Ed courses and requirements.",
+        "Answering phone calls, responding to emails, and assisting students and faculty with questions and inquiries."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "National Honor Society",
+      "website": " ",
+      "position": "Member and Tutoring Coordinator",
+      "startDate": "2022-05",
+      "endDate": "2024-08",
+      "summary": "Provide students with help on Math and English subject while assiting other tutor connect with teachers whose students need academic support",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Tutored students in elementary through high school. Mainly focused on helping out students who are easily distracted with homework and international students with English and Mathematics",
+        "Helped members connect with teachers with students who need tutoring."
       ]
     },
     {
-      "organization": "",
+      "organization": "Sacred Hearts Academy's Summer School Program",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Teacher’s Assistant for Robotics Class",
+      "startDate": "2024-05",
+      "endDate": "2024-08",
+      "summary": "Helped as a teacher assistant for STEM classes during summer school to teach 4th-6th graders about robotics and science.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
