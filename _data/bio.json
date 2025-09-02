@@ -31,7 +31,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "institution": "University of Hawai'i at Mānoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2028)",
       "studyType": "B.S.",
       "startDate": "2024-08-24",
@@ -81,24 +81,27 @@
       "endDate": "2024-08",
       "summary": "Helped as a teacher assistant for STEM classes during summer school to teach 4th-6th graders about robotics and science.",
       "highlights": [
-        "",
-        "",
-        ""
+      ]
+    },
+    {
+      "organization": "Soroptimist Club",
+      "website": "",
+      "position": "Vice President",
+      "startDate": "2022-05",
+      "endDate": "2024-08",
+      "summary": "Organized volunteer and networking events for members.",
+      "highlights": [ 
+        "Help coming up and organizing volunteer events for students to help inspire and educate young women, including the Hawaii Food Bank and MADD walk (Mothers Against Drunk Driving).",
+        "Organized events, such as 'Career Cafe', where students can talk to the school’s alumni about the career path they are interested in."
       ]
     }
   ],
   "awards": [
     {
-      "title": "",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Mānoa International Excellence Scholar",
+      "date": "2024-Present",
+      "awarder": "New Warrior Scholarship Committee",
+      "summary": "Scholarsips for incoming international students base on their academic records and community engagement."
     }
   ],
   "references": [
