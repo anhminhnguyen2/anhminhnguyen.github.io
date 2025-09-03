@@ -29,7 +29,7 @@ ourTuple = [3, true, 'Hello'];
 Another mind-blowing feature of Typescript is Union Types, when a value can be of more than a single type.
 ```ts
 function print(x : string | number) {
-  console.log (‘x is ${x}’);
+  console.log (`x is ${x}`);
 }
 print(4); 
 print('4');
