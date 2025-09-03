@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Getting used to the scripts (Javascript and Typescript)"
+title: "Learning the Scripts"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-03
 published: true
