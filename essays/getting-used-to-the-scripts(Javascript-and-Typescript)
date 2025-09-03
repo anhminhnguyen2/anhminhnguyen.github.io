@@ -12,8 +12,6 @@ labels:
   - Reflection
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 With previous knowledge of Java from high school, as well as ICS 111 and ICS 211, JavaScript and TypeScript do not feel completely unfamiliar. When it comes to the syntax of common data structures that I practiced many times in ICS 111 and ICS 121, such as arrays, classes, or maps, I feel familiar with TypeScript. I also believe that I do not have a deep understanding and grasp of how huge Java’s built-in library is, just from introductory classes, so I cannot make a detailed comparison between the two languages. From my knowledge and observations, I can see how Typescript can be a good programming language for software engineering tasks.
 
 ## Offers flexibility when it comes to structure, types, and parameters
