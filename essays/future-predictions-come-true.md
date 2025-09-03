@@ -9,9 +9,11 @@ labels:
   - Career Goal
   - Degree Pathway
 ---
+
 <div class="text-center p-4">
   <img width="400px" src="../img/future.jpeg" class="img-thumbnail" >
 </div>
+
 
 Growing up in the technology age, I have seen many science fiction movies about the future. Aliens take over the world and end humanity, humans have to live on a spaceship or another planet because Earth is overpolluted, and zombie apocalypses are the most popular topics for sci-fi movies. These movies can be so realistic that they raise a big question: “What would our future look like?” I was asked this question by my teacher after watching the movie “Wall-E” in sixth grade. Many of my peers’ answers consisted of flying cars and robots taking over the world to replace humans. Now looking back, with the drastic growth of Artificial Intelligence (AI) and technologies, all of those predictions have become possible, as society questions the identity and humanity of the future. These predictions sparked my curiosity, as I ask myself: how will technology truly shape the future, and how can I be a part of it?
 	
