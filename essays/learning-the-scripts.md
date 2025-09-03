@@ -41,3 +41,4 @@ These are just a few examples of new features that JavaScript and TypeScript off
 ## Training the thinking muscle
 
 WODs (Workout of the Day) are designed to evoke students' problem-solving and critical thinking skills by solving a coding problem in a limited amount of time, helping them get used to the nature of job interviews. The first WOD I did was from home, and I was able to go through it in a decent amount of time. As I attempted to do a WOD in class as a group, I got a little pressured and rushed through and ended up with my partner helping me resolve an error in the code. I hope to get used to this learning style, since I really like the purpose of it and know that it will benefit me in the future, so that I can do better, either when I am by myself or with others. 
+<img width="200px" class="rounded float-start pe-4" src="../img/brain.jpeg">
