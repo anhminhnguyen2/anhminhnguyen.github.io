@@ -18,7 +18,7 @@ With previous knowledge of Java from high school, as well as ICS 111 and ICS 211
 
 One thing that surprised me when going through the modules on JavaScript and TypeScript is how diverse arrays and parameters can be. For example, a tuple is a type of array with a defined length and type. An interesting characteristic (at least for me) is that there can be multiple different types of data in one tuple, while in Java, a standard array can only contain a single specific type.
 
-```
+```ts
 // define our tuple
 let ourTuple: [number, boolean, string];
 
@@ -27,7 +27,7 @@ ourTuple = [3, true, 'Hello'];
 ```
 
 Another mind-blowing feature of Typescript is Union Types, when a value can be of more than a single type.
-```
+```ts
 function print(x : sting | number) {
   console.log (‘x is ${x}’);
 }
