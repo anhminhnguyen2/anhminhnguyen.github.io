@@ -33,7 +33,7 @@ function print(x : string | number) {
 }
 print(4); 
 print('4');
-//Both calls of ‘print’ function are valid
+//both calls of 'print' function are valid
 
 ```
 These are just a few examples of new features that JavaScript and TypeScript offer while going through the modules. I hope to get more familiar with this new language so that I can use it to its full potential in the future through this class.
