@@ -13,7 +13,7 @@ summary: "Vice President helped plan volunteer events for high school students."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/IMG_2546.jpeg" class="img-thumbnail" >
+  <img width="400px" src="../img/IMG_2546.jpeg" class="img-thumbnail" >
 </div>
 
 As the Vice President of the Soroptimist Club at Sacred Hearts Academy, I had the opportunity to organize various projects for students through volunteer projects and networking events. The main goal of the club is to empower women and girls in the community through education, mentorships, and services. The Soroptimist Club promotes confidence, leadership, empathy, and life skills among high school students by providing them with resources and support throughout their journeys. The board organized many volunteer opportunities for members as well as networking events with other female advocates, professionals, and local leaders. 
