@@ -11,6 +11,12 @@ labels:
   - Reflection
 ---
 
+
+<div class="text-center p-4">
+  <img width="400px" src="../img/smart-stupid.html" class="img-thumbnail" >
+</div>
+
+
 At any time in your life, you have probably heard others say, “There is no such thing as a stupid question.” It is either coming from your instructors or teachers since they encourage people to speak up and ask their questions, since some other person may have the same thought but is also too shy to speak up. You also might have come across some “silly” questions from others with really obvious answers and thought to yourself, “Is that even a question?” Eric Raymond, a software developer, came up with [guidelines](http://www.catb.org/esr/faqs/smart-questions.html) of how a question should be asked in an open source community. His essay highlights the qualities of a “smart” and “stupid” question, and showcases readers' possible ways to come up with a well-thought-out question that would have a higher chance of being recognized and answered.
 
 
@@ -50,6 +56,3 @@ Even though [StackOverFlow](http://stackoverflow.com/) contains tons of question
 NO, these are all valid questions. I believe that no questions are stupid. In fact, they are just poorly phrased, too vague, and even too inconsiderate of the person who asks it. The idea of a question comes from curiosity, which makes every question valid. After reading [Raymond’s essay](http://www.catb.org/esr/faqs/smart-questions.html), I learned how to rephrase, organize, and present my question better by providing context so that I can receive the help I need, either in class or on internet communities such as [StackOverFlow](http://stackoverflow.com/). 
 
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/smart-stupid.html" class="img-thumbnail" >
-</div>
