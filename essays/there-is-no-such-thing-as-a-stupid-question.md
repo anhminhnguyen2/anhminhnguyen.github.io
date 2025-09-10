@@ -13,7 +13,7 @@ labels:
 
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/smart-stupid.html" class="img-thumbnail" >
+  <img width="400px" src="../img/organized.webp" class="img-thumbnail" >
 </div>
 
 
