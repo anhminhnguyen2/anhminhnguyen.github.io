@@ -16,32 +16,69 @@ labels:
 </div>
 
 **I. Introduction**
-Begin with an introduction to the role of AI in education and its specific relevance to Software Engineering. Present an overview of the key concepts or tools related to AI that you have used generally and in ICS 314. Mention which AI tools you have made use of e.g. ChatGPT, Bard, Co-Pilot
+
+Throughout ICS 314, I got the chance to utilized the help of AI in every aspects. From the class WODs to the final projects, I feel like AI is a tool I need to be more sucessful in the future. For the WODs, I mainly used ChatGPT since it has a faster processing time, but for the final project, I decided to use GitHub Copilot since it can iterate through the all the files and give me the most optimal suggestions. 
+
+When I use AI, it does not replace my thinking and planning process, as I treat it like my assistant while I work. I feel more productive and hit less obstacles with the help of AI, as I do not need to physically handle the little, nitty-gritty syntax errors and do not need to manually find solution the annoying ESLint errors or bugs in order ensure the functionality of my components. 
 
 **II. Personal Experience with AI:**
-Reflect on your personal experiences with AI technologies within ICS 314. Provide specific examples of how you have used AI or explanations as to why you have not used AI (e.g. “I tried it for xxx and found it did not give useful results” or “I thought it important for me to find an answer on my own.”) for each of the following course elements:
+<ol>
+<li>Experience WODs e.g. E18</li>
 
-Experience WODs e.g. E18
-In-class Practice WODs
-In-class WODs
-Essays
-Final project
-Learning a concept / tutorial
-Answering a question in class or in Discord
-Asking or answering a smart-question
-Coding example e.g. “give an example of using Underscore .pluck”
-Explaining code
-Writing code
-Documenting code
-Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
-Other uses in ICS 314 not listed
-Copy the list above and address each one. Be sure give specific examples including what prompts you used. For example:
+During the WODs that I completed at home, I did not use AI. If I am stuck, I would watch the videos, since I want to practice the basic and needed skills by my own first so I can understand what to expect when AI give me suggestions. Since the instruction of some experience WODs are outdated, sometimes I would need to use AI to understand more about the requirements, especially when I get stuck and there is no demonstration videos. Sometimes I would ask AI to explain the error messages when running my command lines to help explain and resolve those problems. I believe that it is important to learn and practice the concepts on my own first since I want to build and improve my foundation knowledge first.
 
-For the Functional programming WOD I asked ChatGPT “Write a function using underscore to implement the following instructions <WOD instructions here>”
+I remember one time, when the class started to get used to using VSCode and GitHub and we had to install npm through the terminal, I had a hard time understanding and installing, since my computer terminal indicates that it was installed, but VSCode terminal said that it was not. I spent a lot of time worrying and asking AI to try solve this issue, but it did not help at all. After that, I asked my professor to help with the issue, and even then, it took a pretty long time for him to find out what the issue was since the problem is not common. 
 
-For each example, discuss how useful AI was (or was not useful) and the benefits and costs of using it in each example e.g. “I would not know how to start without ChatGPT, but the result was not exactly what was needed and it took a lot of time with trial and error to get a workable result.”.
+<li>In-class Practice WODs</li>
 
-IMPORTANT Again, if you did not use AI for a course element listed, discuss why you did not, especially if you tried to use AI but found it not helpful or not worth the effort. Do not simply list “I din’t use AI for this element.”
+During the practice WODs, I always try my best to apply what I learned from the at home experience without relying to AI. Usually there was not enough time to complete the practice WOD in class, I would try my best on the first time, and the second time I would use AI. By doing this, it was obvious to me that AI is a big help, since I do not need to manually type out everything and the repetitive test cases, and I just needed to validate the changes/suggestions AI make. With AI, I definetly feel more productive with my work.
+
+<li>In-class WODs</li>
+
+Throughout the in-class WODs, I mainly used AI to get me started, as I would input and prompt the requirements' summary as well as what I want as a result into the search engine, and look at what it gives me to get going from there. I also used AI to generate test cases, such as the the unexpected and expected ones, and to help me debug. I also found it super helpful to use AI to check the logic or my code and ensure that it can accomodates the possible edge cases. Another way I used AI not just in this class, but even my daily life, is that I would input a picture and it would give me text that I can just copy and paste instead of manually typing everything out. I really enjoy having AI help me with the nitty-gritty tasks, since I do not have to focus on the little but strict details so I can have more time to think about the bigger picture of problems.
+
+<li>Essays</li>
+
+I never used AI for essays throughout the course. All the essays are reflection, and I did not have a hard time to find ideas since I got to learn a lot throughout the semester, not only technical skills but personal skills also. I have a lot to reflect and write about, so I do not need AI assitant. I also found that it is not authentic to copy and paste AI generated words and sentences, so I would avoid it at all cost. Even though my reflection may not sound as good as the AI version, I would prefer that since my own reflection is authentic. One of the important requirement for these essays is that write for the world, not just for grading. I believe that my raw thought and opinions would be more interesting and realistic for readers/graders, since it is not too formal and technical but relatable.
+
+<li>Final project</li>
+
+
+
+<li>Learning a concept / tutorial</li>
+
+
+
+<li>Answering a question in class or in Discord</li>
+
+
+
+<li>Asking or answering a smart-question</li>
+
+
+
+<li>Coding example e.g. “give an example of using Underscore .pluck”</li>
+
+
+
+<li>Explaining code</li>
+
+
+
+<li>Writing code</li>
+
+
+
+<li>Documenting code</li>
+
+
+
+<li>Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>” </li>
+
+
+
+<li>Other uses in ICS 314 not listed</li>
+
 
 **III. Impact on Learning and Understanding:**
 Discuss how the incorporation of AI has influenced your learning experience. Consider its impact on comprehension, skill development, and problem-solving abilities. Reflect on whether AI technologies have enhanced or challenged your understanding of software engineering concepts.
