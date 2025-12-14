@@ -53,19 +53,21 @@ Usually, I enjoy the old fashioned way when it comes to learn a concept. I would
 
 <li>Answering a question in class or in Discord</li>
 
-
+During class when the professor explain topics on software engineering, he encourages us to user AI to search up the answers. I would search up, but since I do not have a slight understanding of the concepts, AI's answers do not make sense to me. This reminds me about the importance of foundation knowledge, since if I do not have a concrete base knowledge, AI would be meaningless. After some of my classmates told the professor AI's answers, he said that sometimes the answers would be correct, but most of the times, the answers were usually wrong or too vague. This verifies that AI is a great tool when it is used correctly by a knowledgable person who knows what exactly they are looking for. Prompting the questions is also a very useful skills nowadays with AI, because without provided context from the user, AI's answers can sound "lost" or vague, which can become a mistake or misunderstanding.
 
 <li>Asking or answering a smart-question</li>
 
+This relates to a previous essay about smart questions and how to ask them. When I ask a question, I would not 100% rely on AI's response. I would use it as a way to get started on my research, either using Google, Youtube, Stack Overflow, or my friends who are in the class. I learned that even before asking questions, there should be some research being done on the topic before asking, since it may be a question that has an answer somewhere or someone already posted about it. 
 
+Usually in ICS 314, my friends from class are the ones who would ask me questions, especially about the experience WODs. Since the instruction is outdated, when I work on these WODs, it would take me a while, either to understand the requirement or complete it by run some checks with the terminal. One example is the experience about deployment on Vercel, as the instruction does not explicitly told us what kind of database to use (Neon, SupaBase, ect). This took me a while since I needed to make sure that I closely followed the instruction up to that step, and did some research about which one to choose as well. I remembered that this took a bit long and I had to ask ChatGPT a lot since the instructions are vague. A day after I finished the assignment, my friends would ask me if I did the experience and how did I complete it. I told them what I remembered and which database I chose, but I also told them to as an AI since that was what I did. I think AI is a great tool to help resolve problems like these.
 
 <li>Coding example e.g. “give an example of using Underscore .pluck”</li>
 
-
+In the middle of the course when I first learn about JSX, the combination of HTML and Typescript, there were unfamiliar concepts and that was when I used AI to give me examples the most. It took me quite a long time to get used to this "weird" combinaiton of the two languages. I would do the experience WODs and copy that chunk of code into AI for it to explain the logic of the code as well as the syntax. Since it was hard for me, even with the instruction video, I would have to use ChatGPT to ensure my knowledge about JSX. I believe that AI is helpful for breaking down a big chunk of code with little bit by bit explaination and example. 
 
 <li>Explaining code</li>
 
-
+Just like coding example, I use AI to explain code frequently, especially during the final project where many functionality that I did not learn from class needed to be implemented. I still used Copilot to explain some of its code suggestions for me during the project, such as implementing API, since I did not learn that from the course itself. 
 
 <li>Writing code</li>
 
