@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Ayy Aye"
+title: "My Copilot"
 # All dates must be YYYY-MM-DD format!
-date: 2025-12-13
+date: 2025-12-14
 published: true
 labels:
   - Career Goal
@@ -71,18 +71,21 @@ Just like coding example, I use AI to explain code frequently, especially during
 
 <li>Writing code</li>
 
+During my final project, most of the code changes are AI generated, except for when I caught mistakes then I would manually modify, apply, and test the code. Since I did not learn how to implement some components and functionality from the class, I relied on AI generated code a lot. Even though most of the writing code task is AI's, I did all of the planning and verifying, making sure that Copilot understand my request and the project's requirements, so that it can avoid overwriting or breaking my teammates working code.
 
+Throughout the overall course, I would say that I used AI for generating code for half of the time, mainly on the in-class WODs and the final project, while experience WODs and essays are all manually done.
 
 <li>Documenting code</li>
 
+During the in-class WODs, when I used AI to help me come up with edge cases, the code would come up with documentations, so I would use that in my submission. During the final project, when AI suggested code, it also generate documentation, but very vague. During the first milestone, where most of the project's components are hard-coded, I would manually write comments about what functionalities to replace those place holders so that when I come back and implement working components, I would know where I should put them. 
 
+<li>Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”</li>
 
-<li>Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>” </li>
-
-
+I used AI for all my debugging and fixing purposes throughout the class. I found this a very helpful since there would be error that I am not sure of or have never seen before, so I am unfamiliar with it and do not know how to fix it. I usually get AI to explain to me first then have it attempt to fix it. Errors such as replacing single quotes with double quotes, unused import, and maximun length on a line are all fixed by Copilot. Since I have been using AI for all my debugging and errors fixing/checking, I learned from Copilot to run **npm run build** before committing, pushing my change, and merge so that I can ensure there is not other problems with my changes that may conflict with other aspect such as deploying on Vercel.
 
 <li>Other uses in ICS 314 not listed</li>
 
+Another way I uses AI in not just ICS 314 alone is to calculate my grade, since the instructor does not enable the show overall grade option in Lamaku. I would would download a pdf of my grade page, upload it to ChatGPT, give it the score percentage break down of the course, then ask it about the grade I am having right now in the class. Sometimes, I would also use it to help me to calculate what grade should I have for the finals so that my overall grade would be above a 93% for an A.
 
 **III. Impact on Learning and Understanding:**
 Discuss how the incorporation of AI has influenced your learning experience. Consider its impact on comprehension, skill development, and problem-solving abilities. Reflect on whether AI technologies have enhanced or challenged your understanding of software engineering concepts.
