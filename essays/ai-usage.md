@@ -43,11 +43,13 @@ I never used AI for essays throughout the course. All the essays are reflection,
 
 <li>Final project</li>
 
+Throughout the final project, I used AI (GitHub Copilot) for most of the issues. There were functionality on the website that I have no idea how to implement or even get started on, so I would ask Copilot to give me suggestion base on the files. I found that it is extremely helpful for me because with the assistance and explaination of AI, I was very productive on my work. I believe that because I got to be in charge of the planning and creative part, while Copilot would give me suggestions and explain the code. After looking over the explaination and code suggestion, I would see if the changes in what file is valid or not. Sometimes, I realize that I maybe too vague or wrote too much in my prompt, I would rewrite it in small sections with clear goals and context. Sometimes, I would see that the changes Copilot suggest are wrong, so I had to fix it manually or reprompt tell Copilot that its changes are wrong. This shows me the importance of the human eyes examination and especially solid foundation skills, because without human verification, AI generated code could easily makes mistakes and misunderstanding about the project's requirements and users' need.
 
+I found it very helpful how Copilot can also help with command line and debug if needed. Since using Copilot during the project, I found out that the command **npm run build** is very helpful since it helps me validate my change before commit and attempting to merge in order to avoid any confliction with Vercel deployment. Until now, I still use that command to test if my changes are functional and ready to push to the remote server or not. 
 
 <li>Learning a concept / tutorial</li>
 
-
+Usually, I enjoy the old fashioned way when it comes to learn a concept. I would search it up on Google or Youtube, since I learn better when I follow a tutorial and explaination from another person. In ICS 314 specifically, and especially for the final project, not everything on Youtube is helpful, so I asked Copilot to assist me in learning about new ways to implement a function. I really like how Copilot has been helping me with the project, since the explainations are personalized and applicable to the project itself. Usually, I would try to look on Google and Youtube first, but if I cannot find anything relevant to the project, I would ask Copilot.
 
 <li>Answering a question in class or in Discord</li>
 
