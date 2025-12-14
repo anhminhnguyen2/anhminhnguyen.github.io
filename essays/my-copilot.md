@@ -79,7 +79,7 @@ Throughout the overall course, I would say that I used AI for generating code fo
 
 During the in-class WODs, when I used AI to help me come up with edge cases, the code would come up with documentations, so I would use that in my submission. During the final project, when AI suggested code, it also generate documentation, but very vague. During the first milestone, where most of the project's components are hard-coded, I would manually write comments about what functionalities to replace those place holders so that when I come back and implement working components, I would know where I should put them. 
 
-<li>Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”</li>
+<li>Quality assurance</li>
 
 I used AI for all my debugging and fixing purposes throughout the class. I found this a very helpful since there would be error that I am not sure of or have never seen before, so I am unfamiliar with it and do not know how to fix it. I usually get AI to explain to me first then have it attempt to fix it. Errors such as replacing single quotes with double quotes, unused import, and maximun length on a line are all fixed by Copilot. Since I have been using AI for all my debugging and errors fixing/checking, I learned from Copilot to run **npm run build** before committing, pushing my change, and merge so that I can ensure there is not other problems with my changes that may conflict with other aspect such as deploying on Vercel.
 
