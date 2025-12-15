@@ -82,6 +82,7 @@ I used AI for all my debugging and fixing purposes throughout the class. I found
 <li>Other uses in ICS 314 not listed</li>
 
 Another way I use AI is not just in ICS 314 alone, is to calculate my grade, since the instructor does not enable the show overall grade option in Lamaku. I would download a PDF of my grade page, upload it to ChatGPT, give it the score percentage breakdown of the course, then ask it about the grade I am having right now in the class. Sometimes, I would also use it to help me calculate what grade I should have for the finals so that my overall grade would be above a 93% for an A.
+</ol>
 
 **III. Impact on Learning and Understanding:**
 
