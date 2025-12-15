@@ -88,16 +88,20 @@ I used AI for all my debugging and fixing purposes throughout the class. I found
 Another way I uses AI in not just ICS 314 alone is to calculate my grade, since the instructor does not enable the show overall grade option in Lamaku. I would would download a pdf of my grade page, upload it to ChatGPT, give it the score percentage break down of the course, then ask it about the grade I am having right now in the class. Sometimes, I would also use it to help me to calculate what grade should I have for the finals so that my overall grade would be above a 93% for an A.
 
 **III. Impact on Learning and Understanding:**
-Discuss how the incorporation of AI has influenced your learning experience. Consider its impact on comprehension, skill development, and problem-solving abilities. Reflect on whether AI technologies have enhanced or challenged your understanding of software engineering concepts.
+
+Throughout the course, I really like the usage of AI and how it has been helping me in my study and work. I realized that I become a lot more productive and motivated with the help of GitHub Copilot, since it is like an assitant who helps me with little, nitty-gritty tasks. Not only that, I think apart of my motivation is that using AI is a way to get me started on my creativity during the project. With Copilot's personalize suggestions and explaination, I feel a lof more encouraged to learn more about the connection between my part of the projects connects and my teammates, helping me learn more about other aspect of the web application.
 
 **IV. Practical Applications:**
-Explore any practical applications of AI outside ICS 314. For instance, discuss if AI has been used in real-world projects, simulations, or collaborative activities (for example the HACC). Evaluate the effectiveness of AI applications in addressing real-world software engineering challenges.
+
+I believe that AI is an excellent tool for practical application for everyone despite their level of knowledge. If you are new to a concept, AI will help you learn and understand with personalized answers if you provide it with enough context. If you are advanced and knowledgable about the topic, AI will take you further than that, as it would help you complete the nitty gritty part so you can spend more time and effort on the creative part of your work. I think AI is an extremely powerful tool if it is used the right way.
 
 **V. Challenges and Opportunities:**
-Identify any challenges or limitations you have encountered in the use of AI within the course. Discuss potential opportunities for further integration of AI in software engineering education.
+
+A challenge I can see from myself is that I am afraid that I may become too reliant on AI. During the final project, I noticed that a lof my the implementation my website needs are not taught in the class, so I had to rely on AI to explain to me about those concepts and help me implement those functionalities. I am scared that because of time constraint or output demands, AI would move faster and my ability to learn and adapt, and that could result in me not having a knowledge foundation. I also see this in my teammates, who would blindly accept AI suggestion codes and break other working components of the website. The difference between relying on AI to do everything and the using AI to improve is distinguished by a thin thread.
 
 **VI. Comparative Analysis:**
-Provide a comparative analysis between traditional teaching methods and AI-enhanced approaches in the context of software engineering education. Consider aspects like engagement, knowledge retention, and practical skill development.
+
+For me, I still prefer the traditional teaching methods because I learn better when I can relate to others as well as communicat through human interaction. I value the effort and time of the instructor, and I think that motivates me to be more engaging and rememeber the material longer through personal feedbacks as well as advice. I believe that for me, traditional teaching is irreplacible when it comes learning a new topic and gaining experience. AI is a great tool for reviewing and getting started on a project because it provides summary of the important details in the topics as well as giving suggestions on how to get the "creative juice flowing". I frequently use AI as a study companion, and I find that I do not find AI helpful for me in learning new concepts. As I mentioned before, the first thing I would do when encountering an unfamiliar topic is searching up on Youtube, since I prefer human interaction and instructions more, as asking AI would be my last resort.
 
 **VII. Future Considerations:**
 Discuss your thoughts on the future role of AI in software engineering education. Consider potential advancements, challenges, and areas for improvement.
