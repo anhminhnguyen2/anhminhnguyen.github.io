@@ -21,7 +21,7 @@ I really enjoy using GitHub thoughout the semester and especially for the final 
 
 **Ethics in Software Engineering**
 
-
+Throughout the semester's lecture, I often feel lost and confused (even with AI) since the topics were very advanced and would need a long time for me to grasp, but I really enjoy the debate during this topics. It was interesting to see the valid points that each team raised, and the most important part about this debate in the modern time is that there is no clear answer. There should be no winning team in that debate since the given context was vague and those promoion decisions was determined base on not ethics in software engineering alone, but also the company, its value,... I am very curious about different ideas and opinions, since I realized that this scenerio could happen to anyone nowadays. It also serves as a reminder for me to build a concrete foundation of knowledge, because despite the invention of new, advance tools, at the end, I can only depend on my knowledge and experience, and that will help me stand out more comparing among others who are heavily dependents of some technologies they do not fully understand.
 
 <div class="text-center" style="text-align: center;">
   <img width="600px" src="../img/pilots.webp" class="img-thumbnail" style="display: block; margin: 0 auto;">
