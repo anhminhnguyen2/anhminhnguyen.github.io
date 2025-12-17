@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/RoomieLogo.png
+image: img/manoaroomiematch.png
 title: "Manoa RoomieMatch"
 date: 2025
 published: true
