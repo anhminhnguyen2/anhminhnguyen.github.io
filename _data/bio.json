@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://github.com/anhminhnguyen2.png",
     "email": "anhminh2@hawaii.edu",
-    "phone": "808-200-6974",
     "website": "https://anhminhnguyen2.github.io/anhminhnguyen.github.io/",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2028.",
     "location": { "address": "", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -22,7 +21,11 @@
   "skills": [
     {
       "name": "Technical",
-      "keywords": [ "Google Sheets", "Java (Beginner)", "Access" ]
+      "keywords": [ "Google Sheets", "Access", "Java, JavaScript, Next.js, Bootstrap (Beginner)" ]
+    },
+    {
+      "name": "Toolsets",
+      "keywords": [ "Bash", "Git/GitHub", "Vercel", "pgAdmin (PostgreSQL database)" ]
     },
     {
       "name": "Language",
@@ -43,7 +46,7 @@
       "area": " ",
       "studyType": "High School Diploma",
       "startDate": "2020-01",
-      "endDate": "2024-05",
+      "endDate": "2024-05"
     }
   ],
   "work": [
